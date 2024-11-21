@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LectorQR</string>
+    <string name="regresar">Regresar</string>
+    <string name="login_btnlogin">Iniciar sesión</string>
+    <string name="login_btnfpass">¿Olvidaste tu contraseña?</string>
+    <string name="login_btnsignup">Crear cuenta</string>
+    <string name="login_txtemail">Correo</string>
+    <string name="resetPassword_txtCorreo">Correo del usuario</string>
+    <string name="resetPassword_btnReset">Restablecer la contraseña</string>
+    <string name="login_txtpass">Contraseña</string>
+    <string name="signup_btnRegistrar">Registrarte</string>
+    <string name="signup_textConfPassword">Confirma tu contraseña</string>
+    <string name="main_toolbar">Lector de QR</string>
+    <string name="main_toolbar_menu_perfil">Mi perfil</string>
+    <string name="main_toolbar_menu_signout">Cerrar sesión</string>
+    <string name="leerQR_btn">Leer QR</string>
+</resources>
